@@ -223,7 +223,7 @@ Módulo de visualización de resultados.
 # 📂 Estructura del proyecto
 
 ```bash
-cluster-fk/
+SistemaImagenesDeepLearning/
 │
 ├── clustering/
 │   ├── object_clustering.py
@@ -262,7 +262,7 @@ cluster-fk/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/cluster-fk.git
+git clone https://github.com/isairey/SistemaImagenesDeepLearning.git
 ```
 
 ---
@@ -270,7 +270,7 @@ git clone https://github.com/usuario/cluster-fk.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd cluster-fk
+cd SistemaImagenesDeepLearning
 ```
 
 ---
@@ -407,7 +407,7 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## Cluster-FK Contributors
+## Isai Reyes
 
 Proyecto orientado a investigación en visión por computadora, reconocimiento facial y agrupamiento inteligente de imágenes mediante Deep Learning.
 
